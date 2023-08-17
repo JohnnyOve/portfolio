@@ -8,6 +8,9 @@
 
 ## Навыки и технологии
 
-``Jira``, qase.io, SQL, Postman, Chrome DevTools
+``Jira``, ``qase.io``, ``SQL``, ``Postman``, ``Chrome DevTools``
 
-Проекты
+## Проекты
+
+### 1. Функциональное тестирование веб-приложения для учителей от Skyeng
+
