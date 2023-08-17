@@ -8,6 +8,6 @@
 
 ## Навыки и технологии
 
-Jira, qase.io, SQL, Postman, Chrome DevTools
+''Jira'', qase.io, SQL, Postman, Chrome DevTools
 
 Проекты
